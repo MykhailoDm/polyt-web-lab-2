@@ -1,0 +1,17 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "lab 2 for Polytechnic web development",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "lint": "eslint **/*.js --ignore-pattern node_modules/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1"
+  }
+}
